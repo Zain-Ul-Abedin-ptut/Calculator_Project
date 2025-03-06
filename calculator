@@ -1,6 +1,22 @@
 Console.WriteLine("Zain-Ul-Abedin");
 Console.WriteLine("24-ST-038");
 
+division
+Code for Division:
+
+double num1 = 10;
+double num2 = 2;
+
+if (num2 != 0)
+        {
+            double quotient = num1 / num2;
+            Console.WriteLine("The quotient of " + num1 + " divided by " + num2 + " is: " + quotient);
+        }
+else
+        {
+            Console.WriteLine("Error: Division by zero is not allowed.");
+        }
+=======
 multination
 Code for Multiplication:
 
@@ -26,5 +42,6 @@ int num2 = 20;
 int sum = num1 + num2;
 
 Console.WriteLine("The sum of " + num1 + " and " + num2 + " is: " + sum);
+main
 main
 main
